@@ -15,5 +15,5 @@ This repository contains my Power BI practice projects, showcasing interactive d
 1. Power BI .pbix files with interactive reports.
 2. Sample datasets for practice and exploration.
 
-##🚀 Why This Repository?
+## 🚀 Why This Repository?
 This repository serves as a learning hub and portfolio for my Power BI skills, demonstrating my ability to analyze data and create compelling visual reports. It is continuously updated with new dashboards and insights.
